@@ -58,6 +58,10 @@ By default video conversion is disabled since no known lossless video transcodin
     docker compose up -d
     ```
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Immich%20Upload%20Optimizer/)
+
 ## Available flags
 
   - `-upstream`: The URL of the Immich server (e.g., `http://immich-server:2283`).
